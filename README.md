@@ -1,4 +1,4 @@
-    <h1>Priority-Based Emergency Interrupt System</h1>
+<h1>Priority-Based Emergency Interrupt System</h1>
     <br>
     <p>
         An Arduino-based hardware-software project that simulates 
